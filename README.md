@@ -1,4 +1,5 @@
 # Artificial-Neural-Ntworks-and-Deep-Learning-challenges-2020-2021
+\
 ANN&amp;DL Challenges - PoliMi - a.y. 2020-2021.
 \
 In this folder you can find a model implementation for each of the techniques listed below:
