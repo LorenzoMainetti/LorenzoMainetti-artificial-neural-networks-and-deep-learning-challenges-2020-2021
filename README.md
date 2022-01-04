@@ -60,4 +60,3 @@ The goal of the challenge is to answer questions using the information provided 
 - [__Leonardo Giusti__](https://github.com/giusti-leo)
 - [__Francesco Govigli__](https://github.com/FrancescoGovigli)
 - [__Lorenzo Mainetti__](https://github.com/LorenzoMainetti)
-
