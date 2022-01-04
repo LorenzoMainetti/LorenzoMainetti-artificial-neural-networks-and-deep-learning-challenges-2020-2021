@@ -19,6 +19,8 @@ The goal of the challenge is to classify images of people wearing masks into one
 
 **Evaluation**: Multiclass Accuracy 96%
 
+<img src="assets/challenge1.jpg" width="500"/>
+
 [Here](https://github.com/LorenzoMainetti/artificial-neural-networks-and-deep-learning-challenges-2020-2021/blob/main/1%20-%20Image%20Classification/ANN%20Challenge%201.pdf) is a complete description on how we approached the challenge and how we got our best model.
 
 ## Image Segmentation
@@ -35,6 +37,10 @@ The segmented objects can belong to one of three classes:
 
 **Evaluation**: Intersection over Union 50.83%
 
+| <img src="assets/challenge2.jpg" width="400"/> | <img src="assets/challenge2_mask.jpg" width="400"/> |
+|:---:|:---:| 
+| Input image | Target mask |
+
 [Here](https://github.com/LorenzoMainetti/artificial-neural-networks-and-deep-learning-challenges-2020-2021/blob/main/2%20-%20Image%20Segmentation/ANN%20Challenge%202_Final.pdf) is a complete description on how we approached the challenge and how we got our best model.
 
 ## Visual Question Answering
@@ -45,6 +51,8 @@ The goal of the challenge is to answer questions using the information provided 
 **Dataset**: 58832 questions in training set, 29333 total images (size: 400x700), 6372 questions for testing
 
 **Evaluation**: Multiclass Accuracy 62.34%
+
+<img src="assets/challenge3.jpg" width="500"/>
 
 [Here](https://github.com/LorenzoMainetti/artificial-neural-networks-and-deep-learning-challenges-2020-2021/blob/main/3%20-%20Visual%20Question%20Answering/ANN%20Challenge%203.pdf) is a complete description on how we approached the challenge and how we got our best model.
 
