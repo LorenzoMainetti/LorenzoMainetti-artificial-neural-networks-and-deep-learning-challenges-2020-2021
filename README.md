@@ -2,7 +2,7 @@
 
 This repository contains the Jupyter Notebooks that we created for the competition hosted by the [*Artificial Neural Network and Deep Learning*](http://chrome.ws.dei.polimi.it/index.php?title=Artificial_Neural_Networks_and_Deep_Learning) course at [Politecnico di Milano](https://www.polimi.it/) in the academic year 2020-2021.
 
-The competition was divided into three challenges, each one of them cover a different topic of the course:
+The competition was divided into three challenges, each one of which covered a different topic of the course:
 - Image Classification
 - Image Segmentation
 - Visual Question Answering
@@ -11,7 +11,7 @@ The competition was divided into three challenges, each one of them cover a diff
 [![Kaggle](https://img.shields.io/badge/open-kaggle-blue)](https://www.kaggle.com/c/artificial-neural-networks-and-deep-learning-2020/overview)
 
 The goal of the challenge is to classify images of people wearing masks into one of three classes:
-- **Everyone** in the image are wearing a mask
+- **Everyone** in the image is wearing a mask
 - **No one** in the image is wearing a mask
 - **Someone** in the image is not wearing a mask.
 
@@ -26,7 +26,7 @@ The goal of the challenge is to classify images of people wearing masks into one
 ## Image Segmentation
 [![CodaLab](https://img.shields.io/badge/open-CodaLab-green)](https://competitions.codalab.org/competitions/27176)
 
-The goal of the challenge is to perform precise automatic crop and weed segmentation for the agricoltural sector.\
+The goal of the challenge is to perform precise automatic crop and weed segmentation for the agricultural sector.\
 The images contained two different crop types: Mais or Haricot.
 The segmented objects can belong to one of three classes:
 - **Background**, defined as label 0 and has RGB pixel [0, 0, 0] and [254, 124, 18]
@@ -46,9 +46,9 @@ The segmented objects can belong to one of three classes:
 ## Visual Question Answering
 [![Kaggle](https://img.shields.io/badge/open-kaggle-blue)](https://www.kaggle.com/c/anndl-2020-vqa/overview)
 
-The goal of the challenge is to answer questions using the information provided by the corresponding image and question pair. The given input is an image and an associated question about it, and the output is an answer, belonging to one of three possible categories: 'yes/no', 'counting' (from 0 to 5) and 'other' (e.g. colors, location, ecc.).
+The goal of the challenge is to answer questions using the information provided by the corresponding image and question pair. The given input is an image and an associated question about it, and the output is an answer, belonging to one of three possible categories: 'yes/no', 'counting' (from 0 to 5), and 'other' (e.g. colors, location, etc.).
 
-**Dataset**: 58832 questions in training set, 29333 total images (size: 400x700), 6372 questions for testing
+**Dataset**: 58832 questions in the training set, 29333 total images (size: 400x700), 6372 questions for testing
 
 **Evaluation**: Multiclass Accuracy 62.34%
 
